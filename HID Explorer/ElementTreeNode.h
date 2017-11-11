@@ -17,4 +17,6 @@
 @property (readonly) NSString *usagePage;
 @property (readonly) NSString *usageID;
 
+@property (readwrite) NSString *physicalButtonName;
+
 @end
